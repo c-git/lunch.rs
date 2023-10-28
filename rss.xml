@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title></title>
+      <link>https://lunch.rs</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://lunch.rs/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>2023-10-31</title>
+          <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2023-10-31/</link>
+          <guid>https://lunch.rs/meetups/2023-10-31/</guid>
+          <description>&lt;p&gt;The first Rust for Lunch meetup. Join us online for a talk and questions
+afterwards.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and
+attendees) must follow the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during
+the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;em&gt;coming soon&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Tuesday, 31 October, 2023&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;0638f484&quot;&gt;&lt;strong&gt;12:00 - 13:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 GMT&lt;&#x2F;strong&gt; (e.g. London, Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 WAT&#x2F;CET&lt;&#x2F;strong&gt; (e.g. Kinshasa, Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EET&#x2F;CAT&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;talk-abusing-the-type-system-for-fun-and-for-profit&quot;&gt;Talk: Abusing the Type System for Fun and for Profit&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;speaker-conrad-ludgate&quot;&gt;Speaker: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;conradludgate&quot;&gt;Conrad Ludgate&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;Are you absolutely sure that your payments are submitted at most once? Are you
+sure that your cryptographic library is used correctly? Are you sure that BTree
+is balanced? I&#x27;ll explore some useful (and some goofy) ways to use the rust
+type system to get what you want.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
